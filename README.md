@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Tanzil Ahmed Bhuiyan
 
-<!--
-**tanzilahmedbhuiyan/tanzilahmedbhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc in Artificial Intelligence & Data Science
+Interested in AI, Machine Learning & Data Science
+Passionate about learning, building, and solving real-world problems with technology
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* MS Word
+* MS Excel
+
+## Currently Learning
+
+* SQL
+
+## Goal
+
+To become a skilled AI & Data Science professional and build impactful tech solutions.
