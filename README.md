@@ -13,10 +13,6 @@ Passionate about learning, building, and solving real-world problems with techno
 * MS Word
 * MS Excel
 
-## Currently Learning
-
-* SQL
-
 ## Goal
 
 To become a skilled AI & Data Science professional and build impactful tech solutions.
